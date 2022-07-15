@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Constant {
+    public static final String HELLO = "Hello";
     // 7 ngày
     public static final int MAX_AGE_COOKIE = 7 * 24 * 60 * 60;
 
